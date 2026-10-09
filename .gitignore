@@ -1,0 +1,6 @@
+# The MCP registry signing key (see PUBLICAR.md) must never be committed.
+*.pem
+mcp-registry-auth
+.mcpregistry_*
+__pycache__/
+node_modules/
